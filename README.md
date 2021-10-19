@@ -6,9 +6,10 @@
 You will find a link below to Mark Twain’s collected works which will be the input for our word count program. As with problem one
 your programs should have two command line arguments, the first is the input directory and the second is the output directory. In
 processing the words you should normalize the words by:
-  ● Removing the endings “'” (single quote), “--”, “-”, “'s”, “ly”, “ed”, “ing”, “ness”, “)“, “_”, “;”,“?”, “!”, “,”, “:”.
-  ● Convert all words to lower case
-  ● Remove leading “‘“ (single quote), “”” (double quote), “(“ and “_”.
+
+  > Removing the endings “'” (single quote), “--”, “-”, “'s”, “ly”, “ed”, “ing”, “ness”, “)“, “_”, “;”,“?”, “!”, “,”, “:”.
+  > Convert all words to lower case
+  > Remove leading “‘“ (single quote), “”” (double quote), “(“ and “_”.
   
 1. Produce the standard word count but the output needs to be sorted by the number of times the word occurs in decreasing
 order. The final output should be in a single file even if we use multiple reducers.
