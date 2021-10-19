@@ -10,13 +10,13 @@ Setup Spark locally
 
 #### Steup Instruction
 
-`
+```
 Install spark using homebrew
 
 brew install scala
 
 brew install apache-spark
-`
+```
 
 ### Suggested IDE
 [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac)
