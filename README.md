@@ -4,4 +4,19 @@
 # Apache Spark Scala Word Count and Word Pair Count
 
 
-[Test Input File](https://www.gutenberg.org/files/3200/3200.zip)
+### Prerequisites 
+
+Setup Spark locally
+
+#### Steup Instruction
+
+`
+Install spark using homebrew
+brew install scala
+brew install apache-spark
+`
+
+### Suggested IDE
+[IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac)
+
+[Download Input file](https://www.gutenberg.org/files/3200/3200.zip)
