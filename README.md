@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/apm/l/vim-mode)
 
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/dw/dustman">
+
 # Apache Spark Scala Word Count and Word Pair Count
 
 You will find a link below to Mark Twain’s collected works which will be the input for our word count program. As with problem one
