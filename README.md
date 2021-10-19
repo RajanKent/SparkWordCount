@@ -12,7 +12,9 @@ Setup Spark locally
 
 `
 Install spark using homebrew
+
 brew install scala
+
 brew install apache-spark
 `
 
