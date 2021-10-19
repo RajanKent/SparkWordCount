@@ -34,6 +34,25 @@ brew install scala
 brew install apache-spark
 ```
 
+
+### About
+
+#### SBT
+
+> sbt is an open-source build tool for Scala and Java projects, similar to Java’s Maven and Ant.
+
+#### Spark and Spark MLlib
+
+```
+
+libraryDependencies ++= Seq(
+  "org.apache.spark" %% "spark-core" % "2.3.2",
+  "org.apache.spark" %% "spark-sql" % "2.3.2",
+  "org.apache.spark" %% "spark-mllib" % "2.4.0"
+)
+
+```
+
 ### Suggested IDE
 [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac)
 
