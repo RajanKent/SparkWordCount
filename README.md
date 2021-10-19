@@ -21,4 +21,6 @@ brew install apache-spark
 ### Suggested IDE
 [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac)
 
+### Input file used
+
 [Download Input file](https://www.gutenberg.org/files/3200/3200.zip)
